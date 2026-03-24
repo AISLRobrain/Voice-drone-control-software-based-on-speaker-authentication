@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+pretrained_models/
+*.pt
+*.ppn
+venv/
+20_man.wav
+20_woman.wav
+30_man.wav
+30_woman.wav
